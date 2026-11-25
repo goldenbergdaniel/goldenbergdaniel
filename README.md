@@ -1,6 +1,6 @@
 # Daniel Goldenberg
 
-Games, tools, and hardware development.
+I mostly do game development and hardware.
 
 ### Subscribe to my YouTube channel!
-[BerylDev](https://www.youtube.com/@beryldev)
+[KaltVolt](https://www.youtube.com/@kaltvolt)
